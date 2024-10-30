@@ -41,7 +41,7 @@
 ### Installation
 
 1. **Clone the repository:**
-   git clone https://github.com/
+   git clone [usof_backend_alukash](https://github.com/AntonLukash/usof_backend)
    
 2. **Install all dependencies:**
    npm install
